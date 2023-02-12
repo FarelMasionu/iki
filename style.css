@@ -1,0 +1,28 @@
+td {
+    color: black;
+    padding: 10px;
+}
+
+table {
+    border-color: aqua;
+}
+
+form{
+    text-align: center;
+}
+h1{
+    background-color: black;
+    color: red;
+}
+body{
+    background-color: bisque;
+}
+label{
+    background-color: aquamarine;
+}
+form{
+    background-color: blueviolet;
+}
+#warnaubah{
+    color: blue;
+}
